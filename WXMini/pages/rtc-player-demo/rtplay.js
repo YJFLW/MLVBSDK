@@ -7,7 +7,6 @@ Page({
   data: {
     playing: false,
     videoContext: {},
-
     fullScreen: false,
     playUrl: "http://5815.liveplay.myqcloud.com/live/5815_89aad37e06ff11e892905cb9018cf0d4_550.flv",
     orientation: "vertical",
